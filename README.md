@@ -4,38 +4,38 @@ A robust and customizable password generator tool designed to create secure pass
 
 Features:-
 
-Generates passwords of customizable length.
+-->Generates passwords of customizable length.
 
-Includes options for uppercase letters, lowercase letters, numbers, and special characters.
+-->Includes options for uppercase letters, lowercase letters, numbers, and special characters.
 
-User-friendly web interface.
+-->User-friendly web interface.
 
-Provides copy-to-clipboard functionality for easy use.
+-->Provides copy-to-clipboard functionality for easy use.
 
-Ensures high entropy for secure password creation.
+-->Ensures high entropy for secure password creation.
 
 
 Usage:-
 
-Running the Password Generator
+-->Running the Password Generator
 
-Open the index.html file in your web browser. Use the interface to set your desired password parameters:
+-->Open the index.html file in your web browser. Use the interface to set your desired password parameters:
 
-Length of the password.
+-->Length of the password.
 
-Include uppercase letters.
+-->Include uppercase letters.
 
-Include lowercase letters.
+-->Include lowercase letters.
 
-Include numbers.
+-->Include numbers.
 
-Include special characters.
+-->Include special characters.
 
-Click the "Generate Password" button to create a new password. Use the "Copy to Clipboard" button to copy the generated password.
+-->Click the "Generate Password" button to create a new password. Use the "Copy to Clipboard" button to copy the generated password.
 
 
 Configuration:-
 
-You can customize the default settings by editing the script.js file.
+-->You can customize the default settings by editing the script.js file.
 
-Here, you can set the default length of the password and the character sets to include.
+-->Here, you can set the default length of the password and the character sets to include.
