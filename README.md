@@ -1,3 +1,10 @@
+# Output
+![Screenshot 2024-05-30 084537](https://github.com/atulkumar-20/password-generator/assets/170754927/72e4f634-07da-4151-9916-6395a0f004a2)
+
+
+
+
+
 Description:-
 
 A robust and customizable password generator tool designed to create secure passwords for your various needs. This application ensures that your passwords are strong and adhere to security best practices.
